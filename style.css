@@ -1,18 +1,18 @@
 body {
-    background-color : white;
-    color : white;
+    background-color : #000E0F;
+    color : #000E0F;
     }
     table, tr, td, th {
-    border : white solid 2px;
+    border : #000E0F solid 2px;
     border-collapse : collapse;
     padding : 2px;
     }
     a:link {
-    color : white;
+    color : #1bdbe9;
     }
     a:visited {
-    color : white;
+    color : #4c0c9f;
     }
     body {
-    background-color : #000E0F;
+    background-color : white;
     }
